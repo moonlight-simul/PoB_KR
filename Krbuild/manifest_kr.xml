@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PoB_kr>
+	<Version number="1.0.56" platform="win32" branch="master"/>
+	<Source url="https://gitee.com/jiaqq02/PoB_kr/raw/{branch}/" part="program"/>
+	<File sha1="e1a1e2786ca9872cc7246a08875c72ca08dae792" name="Krbuild/changelog.txt" part="program"/>
+	<File sha1="48a303643951d012b7468bd29e8d23674fa6e693" name="Krbuild/Launch.lua" part="program"/>
+	<File sha1="356c4425683c04175db610ec972c4bef0631d20f" name="Krbuild/Res/item_zh-rCN.txt" part="program"/>
+	<File sha1="911b0f05280f11bb1ae68fa39ea1276a817bfa99" name="Krbuild/UpdateCheckCN.lua" part="program"/>
+	<File sha1="11b00012b2fe3e506cd05b235d163c48e4799c61" name="Krbuild/UpdateCheck.lua" part="program"/>
+	<File sha1="a2c4229fbe8b729305a593d90e04a3bfe922c0b6" name="Krbuild/Modules/ItemTools.lua" part="program"/>
+	<File sha1="fe35963d48546717ce85d9d749a326352f79e627" name="Krbuild/Res/tree_zh-rCN.txt" part="program"/>
+	<File sha1="7e5a8d4222e489ba45c51c98fb32771cd0b59fbf" name="Krbuild/Classes/ItemListControl.lua" part="program"/>
+	<File sha1="f3d704f8d5c6f29a301b51870cbd44b7c31cc072" name="Krbuild/Res/skill_zh-rCN.txt" part="program"/>
+	<File sha1="b3cfd9ebe44aef8dd34a4907b09d4dd369278442" name="Krbuild/Res/mod_zh-rCN.txt" part="program"/>
+	<File sha1="8d3e14b10660785136f82e8d2c96c3f22a818622" name="Krbuild/Classes/PassiveTree.lua" part="program"/>
+	<File sha1="86ab94bf623fa14abc4e7fc33381e17951624bfb" name="Krbuild/Classes/ImportTab.lua" part="program"/>
+	<File sha1="e7bfff503412bcb6ce88b50adb8a51ba8e94a0ec" name="Krbuild/Res/gui_zh-rCN.txt" part="program"/>
+	<File sha1="d7107948d7b9369024d7c6c5d232f0545546d550" name="Krbuild/Classes/EditControl.lua" part="program"/>
+</PoB_kr>
